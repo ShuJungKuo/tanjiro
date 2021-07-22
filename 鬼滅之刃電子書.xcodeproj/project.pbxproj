@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5D99647426A8650700326760 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D99647326A8650700326760 /* ViewController.swift */; };
 		5DE5CE8026A8182F0064185A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE5CE7F26A8182F0064185A /* AppDelegate.swift */; };
 		5DE5CE8226A8182F0064185A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE5CE8126A8182F0064185A /* SceneDelegate.swift */; };
 		5DE5CE8426A8182F0064185A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE5CE8326A8182F0064185A /* ViewController.swift */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5D99647326A8650700326760 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5DE5CE7C26A8182F0064185A /* 鬼滅之刃電子書.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "鬼滅之刃電子書.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DE5CE7F26A8182F0064185A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5DE5CE8126A8182F0064185A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,7 +40,6 @@
 		5DE5CE7326A8182F0064185A = {
 			isa = PBXGroup;
 			children = (
-				5D99647326A8650700326760 /* ViewController.swift */,
 				5DE5CE7E26A8182F0064185A /* 鬼滅之刃電子書 */,
 				5DE5CE7D26A8182F0064185A /* Products */,
 			);
@@ -143,7 +140,6 @@
 			files = (
 				5DE5CE8426A8182F0064185A /* ViewController.swift in Sources */,
 				5DE5CE8026A8182F0064185A /* AppDelegate.swift in Sources */,
-				5D99647426A8650700326760 /* ViewController.swift in Sources */,
 				5DE5CE8226A8182F0064185A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -293,6 +289,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4V959K3245;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "鬼滅之刃電子書/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -300,6 +297,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -320,6 +318,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 4V959K3245;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "鬼滅之刃電子書/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -327,6 +326,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
